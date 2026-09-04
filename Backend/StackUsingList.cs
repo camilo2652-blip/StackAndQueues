@@ -29,7 +29,7 @@ public class StackUsingList<T>
         return item;
     }
 
-    public T Peak()
+    public T Peek()
     {
         if (IsEmpty)
         {
